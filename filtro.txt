@@ -1,0 +1,3 @@
+! Title: AdGuard DNS filter
+||conoce-aqui.sunarp.gob.pe^
+||siguelo.sunarp.gob.pe^
